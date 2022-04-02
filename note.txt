@@ -1,3 +1,5 @@
 what is node.js?
 front-end : browser
-back-end : server
+back-end : server 
+
+how to create a api through get methode in localhost :
